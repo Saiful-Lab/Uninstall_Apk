@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721418932774",
+    "project_id": "systemappuninstaller",
+    "storage_bucket": "systemappuninstaller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721418932774:android:deea66f9fcea3f7233cce7",
+        "android_client_info": {
+          "package_name": "com.saiful.apkcheckanduninstall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUUHFt2TBIwlmkk_65HzQ6LHohcbw8s_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
